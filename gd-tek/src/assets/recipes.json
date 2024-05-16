@@ -1,0 +1,14 @@
+{
+  "recipes": [
+    {
+      "name": "gd-tek-millet",
+      "description": "Golden Druid all-in-one grow bag recipe",
+      "formula" : [
+        {"type": "verm", "ratio": "1:1"},
+        {"type": "coco", "ratio": "1:1"},
+        {"type": "gyps", "ratio": "2:10"},
+        {"type": "water", "ratio": "7:1"},
+        {"type": "millet", "ratio": "1:1"}]
+    }
+  ]
+}

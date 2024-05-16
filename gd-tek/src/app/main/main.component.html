@@ -1,0 +1,10 @@
+<h2>Calculate from size of all-in-one bag</h2>
+<h6>*measure bag bottom when opened into rectangular shape</h6>
+<p>bag X cm : <input #sizeX type="number"></p>
+<p>bag Z cm: <input #sizeY type="number"></p>
+<button (click)="fromSize(sizeX.value, sizeY.value)">Calculate</button>
+<h2>Calculate weight of all-in-one bag</h2>
+<p>weight in grams: <input #weight type="number"></p>
+<button (click)="fromWeight(weight.value)">Calculate</button>
+
+<pre>{{this.recipe | json}}</pre>
