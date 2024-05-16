@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/gd-tek/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/gd-tek/dist" />
       <excludeFolder url="file://$MODULE_DIR$/gd-tek/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/gd-tek/tmp" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
